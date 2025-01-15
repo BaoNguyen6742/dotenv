@@ -1,0 +1,1 @@
+Require Notepad++ to use as editor, you can change if needed
