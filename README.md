@@ -8,4 +8,4 @@ Config files for Linux and WSL
 
 - Each folder has a `install` file that contains the location of the configuration file. 
 
-- To install the configuration, run `install.[sh/fish] <Platform you are running>`. Eg: "./install.fish WSL
+- To install the configuration, run `install.[sh/fish] <Platform you are running>`. Eg: `./install.fish WSL`
